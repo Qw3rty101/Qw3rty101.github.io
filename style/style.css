@@ -1,0 +1,155 @@
+ul li a {
+	text-decoration: none;
+	color: #fff;
+	font-style: normal;
+
+}
+
+a:hover {
+	text-decoration: none;
+	color: #F6964C;
+
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.tmp_nav {
+	position: absolute;
+	margin-left: -20px;
+	width: 520px;
+	height: 60px;
+	background-color: #3C3B3E;
+	transform: skew(-25deg);
+	box-shadow: 9px 6px 1px #F6964C;
+}
+
+li {
+	font-weight: bold;
+	font-family: segoe UI;
+	font-size: 21px;
+	margin-left: 40px;
+	padding-left: -20px;
+	list-style: none;
+	display: inline-block;
+	color: #fff;
+}
+
+.hi div {
+	position: fixed;
+	left: 720px;
+	top: 140px;
+}
+
+.deks h1{
+	font-weight: inherit;
+	font-family: Segoe UI;
+	font-size: 41px;
+	color: #F6964C;
+}
+
+.deks h2{
+	margin-top: -38px;
+	font-weight: bold;
+	font-family: Segoe UI;
+	font-size: 38px;
+}
+
+.deks p {
+	font-family: Segoe UI;
+	margin-top: -25px;
+	color: #CBCBCB;
+	width: 500px;
+}
+
+h3 {
+	color: #F6964C;
+}
+
+.sign-up {
+	width: 118px;
+	height: 58px;
+	border-radius: 50px;
+	background-color: #fff;
+	border: 2px solid #F6964C;
+	color: #F6964C;
+	font-family: Segoe UI;
+	font-size: 21px;
+	margin-top: 260px;
+	margin-left: 60px;
+	line-height: 58px;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.sign-up:hover {
+	width: 118px;
+	height: 58px;
+	border-radius: 50px;
+	background-color: #fff;
+	border: 2px solid #F6964C;
+	color: #F6964C;
+	font-family: Segoe UI;
+	font-size: 21px;
+	margin-top: 260px;
+	margin-left: 60px;
+	line-height: 58px;
+	text-align: center;
+	font-weight: bold;
+	box-shadow: 0px -2px 5px #F6964C inset;
+
+}
+
+.sign-up a{
+	text-decoration: none;
+	color: #F6964C;
+
+}
+
+.sign-in {
+	width: 120px;
+	height: 60px;
+	border-radius: 50px;
+	background-color: #F6964C;
+	color: #fff;
+	font-family: Segoe UI;
+	font-size: 21px;
+	margin-top: 260px;
+	margin-left: 260px;
+	line-height: 58px;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.sign-in:hover {
+	width: 120px;
+	height: 60px;
+	border-radius: 50px;
+	background-color: #F6964C;
+	color: #fff;
+	font-family: Segoe UI;
+	font-size: 21px;
+	margin-top: 260px;
+	margin-left: 260px;
+	line-height: 58px;
+	text-align: center;
+	font-weight: bold;
+	box-shadow: 0px -2px 5px #fff inset;
+
+}
+
+h3 {
+	margin-left: 80px;
+	margin-top: 45px;
+}
+
+img {
+	position: fixed;
+	padding-top: 300px; 
+	left: -65px;
+	z-index: -5;
+}
